@@ -14,7 +14,7 @@ console.log(null >= 0);
 
 console.log(undefined == 0)
 
-// ===
+// ===  checks the datatype also
 
 console.log("2" === 2);
 
